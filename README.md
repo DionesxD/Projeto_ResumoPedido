@@ -23,7 +23,8 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/DionesxD/Projeto_ResumoPedido/assets/110851857/d096f8d0-1b7d-4fd8-9df2-edd64d19b721)
+
 
 
 
