@@ -1,17 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-Esta é uma solução para o [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+Esta é uma solução para o DESAFIO [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas. 
 
 
 ### The challenge
@@ -29,7 +18,7 @@ Os usuários devem ser capazes de:
 
 
 
-### Built with
+### Construido com:
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -40,7 +29,7 @@ Os usuários devem ser capazes de:
 
 
 
-### What I learned
+### O que aprendi:
 
 Pratiquei o uso do HTML acompanhado do CSS
 
