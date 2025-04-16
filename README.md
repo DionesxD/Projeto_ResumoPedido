@@ -215,10 +215,6 @@ a:hover{
 }
 ```
 
-## Author
-
-- Website - [DionesxD](https://www.github.com/DionesxD)
-- Linkedin - [DionesxD](https://www.linkedin.com/johnnyalejandro)
 
 
 
