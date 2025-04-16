@@ -14,6 +14,8 @@ Os usuários devem ser capazes de:
 
 ![image](https://github.com/DionesxD/Projeto_ResumoPedido/assets/110851857/d096f8d0-1b7d-4fd8-9df2-edd64d19b721)
 
+Vinculei aos botões funcionalidades, por exemplo o botão EFETUAR COMPRA encaminha para um video descontraido no Youtube do meme viral da musica de Rick Astley, enquanto o botão CANCELAR pedido encaminha para uma página de um meme também viral da lagosta azul, utilizando de forma divertida Classes e Botões.
+
 
 
 
